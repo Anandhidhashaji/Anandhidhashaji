@@ -10,3 +10,6 @@ Hi 👋 I am Anandhidha
 🔗 Kaggle: https://www.kaggle.com/anandhidha  
 
 🚀 Open to Internship Opportuniti
+
+### Skills
+Python • Machine Learning • Data Analysis • SQL • Pandas • NumPy
