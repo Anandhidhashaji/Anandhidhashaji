@@ -7,9 +7,13 @@ Hi 👋 I am Anandhidha
 💻 Skilled in Python, Machine Learning and Data Analysis  
 📊 Currently building real-world ML projects  
 
-🔗 Kaggle: https://www.kaggle.com/anandhidha  
+Projects
 
-🚀 Open to Internship Opportuniti
+• House Price Prediction using Linear Regression
 
 ### Skills
 Python • Machine Learning • Data Analysis • SQL • Pandas • NumPy
+
+🔗 Kaggle: https://www.kaggle.com/anandhidha
+
+🚀 Open to Internship Opportunities
